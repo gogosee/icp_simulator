@@ -3,8 +3,8 @@ module github.com/gogosee/icp_simulator/auth
 go 1.22.2
 
 require (
-	github.com/gogosee/icp_simulator/log v0.0.0
-	github.com/gogosee/icp_simulator/yaml_config v0.0.0
+	github.com/gogosee/icp_simulator/log v1.0.0
+	github.com/gogosee/icp_simulator/yaml_config v1.0.0
 	go.mongodb.org/mongo-driver v1.10.1
 	gopkg.in/yaml.v3 v3.0.1
 )

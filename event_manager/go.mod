@@ -2,7 +2,7 @@ module github.com/gogosee/icp_simulator/event_manager
 
 go 1.22.2
 
-require github.com/gogosee/icp_simulator/log v0.0.0
+require github.com/gogosee/icp_simulator/log v1.0.0
 
 require (
 	github.com/pkg/errors v0.9.1 // indirect

@@ -3,8 +3,8 @@ module github.com/gogosee/icp_simulator/codec
 go 1.22.2
 
 require (
-	github.com/gogosee/icp_simulator/utils v0.0.0-20220812101323-94db102fa165
-	github.com/gogosee/icp_simulator/log v0.0.0
+	github.com/gogosee/icp_simulator/utils v1.0.0
+	github.com/gogosee/icp_simulator/log v1.0.0
 	golang.org/x/text v0.3.7
 )
 
