@@ -1,0 +1,12 @@
+go 1.22.2
+
+use (
+	./auth
+	./codec
+	./database
+	./event_manager
+	./log
+	./utils
+	./yaml_config
+	./msc_client
+)
