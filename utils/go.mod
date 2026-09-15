@@ -3,7 +3,7 @@ module github.com/gogosee/icp_simulator/utils
 go 1.22.2
 
 require (
-	github.com/gogosee/icp_simulator/log v1.0.0
+	// github.com/gogosee/icp_simulator/log v1.0.0
 	golang.org/x/text v0.3.7
 )
 

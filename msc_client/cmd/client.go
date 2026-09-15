@@ -6,9 +6,10 @@ import (
 	"strings"
 
 	"github.com/gogosee/icp_simulator/log"
+	sms "github.com/gogosee/icp_simulator/smc_client"
 
 	"github.com/gogosee/icp_simulator/auth"
-	"github.com/gogosee/icp_simulator/msc_client"
+	// "github.com/gogosee/icp_simulator/msc_client"
 )
 
 func main() {

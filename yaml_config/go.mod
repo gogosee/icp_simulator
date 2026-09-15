@@ -4,7 +4,7 @@ go 1.22.2
 
 require (
 	github.com/fsnotify/fsnotify v1.5.4
-	github.com/gogosee/icp_simulator/log v1.2.1
+	// github.com/gogosee/icp_simulator/log v1.2.1
 	github.com/spf13/viper v1.12.0
 	github.com/stretchr/testify v1.7.2
 	go.uber.org/zap v1.21.0

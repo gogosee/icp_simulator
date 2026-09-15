@@ -3,13 +3,13 @@ module github.com/gogosee/icp_simulator/smc_client
 go 1.22.2
 
 require (
-	github.com/gogosee/icp_simulator/auth v1.0.0
-	github.com/gogosee/icp_simulator/codec v1.0.0
-	github.com/gogosee/icp_simulator/database v1.0.0
-	github.com/gogosee/icp_simulator/event_manager v1.0.0
-	github.com/gogosee/icp_simulator/utils v1.0.0
-	github.com/gogosee/icp_simulator/log v1.0.0
-	github.com/gogosee/icp_simulator/yaml_config v1.0.0
+	// github.com/gogosee/icp_simulator/auth v1.0.0
+	// github.com/gogosee/icp_simulator/codec v1.0.0
+	// github.com/gogosee/icp_simulator/database v1.0.0
+	// github.com/gogosee/icp_simulator/event_manager v1.0.0
+	// github.com/gogosee/icp_simulator/utils v1.0.0
+	// github.com/gogosee/icp_simulator/log v1.0.0
+	// github.com/gogosee/icp_simulator/yaml_config v1.0.0
 	github.com/panjf2000/ants/v2 v2.4.8
 	github.com/panjf2000/gnet/v2 v2.1.0
 	github.com/stretchr/testify v1.7.2
